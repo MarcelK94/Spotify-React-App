@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Create copy of the .env.example file and insert your Spotify Client Id and secret. If you do not have one, please contact Vincent.
 
 ## Available Scripts
 
